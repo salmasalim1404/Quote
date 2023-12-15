@@ -1,0 +1,33 @@
+.btn button{
+    border-radius: 0;
+    padding-inline: 50px;
+    padding-block: 25px;
+
+}
+
+
+.btn button:hover{
+    background-color: rgb(0, 58, 204);
+    color: #fff;
+    
+}
+
+div h1{
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+
+}
+div h2{
+    font-size: 23px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+
+}
+#quote{
+    font-size: 25px;
+    font-style: italic;
+   
+}
+#writer{
+    font-style: italic;
+}
